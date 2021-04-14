@@ -8,4 +8,4 @@
   2.其次执行`brew install gdb`进行安装（默认是最新版本）  
   3.安装完毕后使用`gdb-v`查看是否安装成功  
   若安装成功，显示如下图：  
-  ![image]https://github.com/jingpengfei/operating-system-learnning/blob/main/Image/1.png
+  ![image](https://github.com/jingpengfei/operating-system-learnning/blob/main/Image/1.png)
